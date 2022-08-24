@@ -2,10 +2,10 @@
 
 ## DISEÑO DE LA APP
 
-![Text](https://github.com/RodrigoMato00/MyWallet/blob/master/Docs/Disen%CC%83o_front.png)
+![APP](https://github.com/RodrigoMato00/MyWallet/blob/master/Docs/Disen%CC%83o_front.png)
 
 ## ARQUITECTURA DE LA APP
-https://github.com/RodrigoMato00/MyWallet/blob/master/Docs/Arquitectura.png
+![APP](https://github.com/RodrigoMato00/MyWallet/blob/master/Docs/Arquitectura.png)
 
 ## Funciones
 
