@@ -14,3 +14,5 @@ Esta app fue creada como ejercicio de aprendisaje y para presentar en una prueba
 -       yarn start 
 
 Por mas informacion y datos de la app consutar [Docs](https://github.com/RodrigoMato00/MyWallet/tree/master/Docs)
+
+![MyWallet](https://github.com/RodrigoMato00/MyWallet/blob/master/Docs/MyWallet.png)
